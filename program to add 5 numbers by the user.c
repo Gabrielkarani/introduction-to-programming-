@@ -2,13 +2,13 @@
 #include<stdio.h>
 int main()
 {
-int A=5;
-int B=7;
-int C=8;
-int D=4;
-int E=5;
+int I=6;
+int J=1;
+int K=8;
+int L=10;
+int M=5;
 int sum;
-sum=A+B+C+D+E;
+sum=I+J+K+L+M;
 printf("the sum of five numbers is %d",sum);
 return 0;
 }
